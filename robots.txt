@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goscale.me/sitemap.xml
